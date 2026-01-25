@@ -2,9 +2,19 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 04675008-b4a6-42a7-a3ac-a692134198d5)
+	(uuid "04675008-b4a6-42a7-a3ac-a692134198d5")
 	(paper "A4")
 	(lib_symbols)
+	(text "LALALALALA, UPDATING SCHEMATIC. WILL IT UPDATE??? WHO KNOWS???"
+		(exclude_from_sim no)
+		(at 110.744 122.936 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "97475d6b-3a66-4a99-bc0f-cab31a5fa190")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
