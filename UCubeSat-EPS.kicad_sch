@@ -15,6 +15,16 @@
 		)
 		(uuid "97475d6b-3a66-4a99-bc0f-cab31a5fa190")
 	)
+	(label "Testing GitHub :)"
+		(at 77.47 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9437c4d7-ea44-4982-abdd-9c5efa67ef55")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
